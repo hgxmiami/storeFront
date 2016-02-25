@@ -46,13 +46,25 @@ p {
     
     display: flex;
     flex-wrap: wrap;
-    flex-direction: column;
-    height: 30%;
+    flex-direction: row;
+    height: 50%;
     position: absolute;
     justify-content: space-around;
-    left: 40%;
-    top: 20%;
+    left: 20%;
+    top: 10%;
 }
+.creatured {
+    
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    height: 50%;
+    position: absolute;
+    justify-content: space-around;
+    left: 20%;
+    top: 60%;
+}
+
 .item2 {
     
     color: #000000;
@@ -62,4 +74,9 @@ p {
     border: solid;
     border-radius: 5px;
    
+}
+#ocean {
+    
+    height: 150px;
+    width: 150px;
 }
