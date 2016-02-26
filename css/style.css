@@ -75,6 +75,9 @@ p {
     background: #ffffff;
     border: solid;
     border-radius: 5px;
+    flex-shrink: 3;
+    align-self: auto;
+    flex-basis: auto;
    
 }
 #serena {
