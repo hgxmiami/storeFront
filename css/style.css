@@ -47,22 +47,24 @@ p {
     display: flex;
     flex-wrap: wrap;
     flex-direction: row;
-    height: 50%;
+    height: 60%;
+    width: 80%;
     position: absolute;
-    justify-content: space-around;
-    left: 20%;
-    top: 10%;
+    justify-content: center;
+    left: 13%;
+    top: 5%;
 }
 .creatured {
     
     display: flex;
     flex-wrap: wrap;
     flex-direction: row;
-    height: 50%;
+    height: 60%;
+    width: 80%;
     position: absolute;
-    justify-content: space-around;
-    left: 20%;
-    top: 60%;
+    justify-content: center;
+    left: 13%;
+    top: 66%;
 }
 
 .item2 {
@@ -75,8 +77,33 @@ p {
     border-radius: 5px;
    
 }
-#ocean {
+#serena {
     
-    height: 150px;
-    width: 150px;
+    height: 200px;
+    width: 200px;
+}
+#brenda {
+    
+    height: 200px;
+    width: 200px;
+}
+#oj {
+    
+    height: 200px;
+    width: 200px;
+}
+#nicole {
+    
+    height: 200px;
+    width: 200px;
+}
+#aaron {
+    
+    height: 200px;
+    width: 200px;
+}
+#goo {
+    
+    height: 200px;
+    width: 200px;
 }
