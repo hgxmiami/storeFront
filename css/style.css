@@ -47,25 +47,10 @@ p {
     display: flex;
     flex-wrap: wrap;
     flex-direction: row;
-    height: 60%;
-    width: 80%;
-    position: absolute;
     justify-content: center;
-    left: 13%;
-    top: 5%;
-}
-.creatured {
     
-    display: flex;
-    flex-wrap: wrap;
-    flex-direction: row;
-    height: 60%;
-    width: 80%;
-    position: absolute;
-    justify-content: center;
-    left: 13%;
-    top: 66%;
 }
+
 
 .item2 {
     
@@ -75,9 +60,9 @@ p {
     background: #ffffff;
     border: solid;
     border-radius: 5px;
-    flex-shrink: 3;
     align-self: auto;
-    flex-basis: auto;
+    flex-basis: 100px;
+    
    
 }
 #serena {
